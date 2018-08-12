@@ -1,0 +1,9 @@
+.idea/
+logs/
+*.jpg
+*.pyc
+*.vscode
+*.pyc
+*.db
+venv
+
